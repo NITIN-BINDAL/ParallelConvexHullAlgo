@@ -1,4 +1,4 @@
-# Parallel Convex Polygon Algo
+# Parallel Polygon Creation Algo
 
 This repositry contains the Parallelized implementation of
 Convex Hull Algorithm using OpenMp Library in C++.  
